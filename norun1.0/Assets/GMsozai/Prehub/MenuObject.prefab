@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD
+--- !u!1 &4552961767578563926
+=======
+<<<<<<< HEAD
+--- !u!1 &4005023396876648929
+=======
+--- !u!1 &2553386837081991973
+>>>>>>> 070ec13a905b1b42df46557196ff12043d8d51b0
+>>>>>>> 3c6b7992dc2666f10743bd0f9bdb8be646c10a93
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 4552961767578563924}
+  - component: {fileID: 4552961767578563927}
+=======
+<<<<<<< HEAD
+  - component: {fileID: 4005023396876648931}
+  - component: {fileID: 4005023396876648928}
+=======
+  - component: {fileID: 2553386837081991975}
+  - component: {fileID: 2553386837081991972}
+>>>>>>> 070ec13a905b1b42df46557196ff12043d8d51b0
+>>>>>>> 3c6b7992dc2666f10743bd0f9bdb8be646c10a93
+  m_Layer: 0
+  m_Name: MenuObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &4552961767578563924
+=======
+<<<<<<< HEAD
+--- !u!4 &4005023396876648931
+=======
+--- !u!4 &2553386837081991975
+>>>>>>> 070ec13a905b1b42df46557196ff12043d8d51b0
+>>>>>>> 3c6b7992dc2666f10743bd0f9bdb8be646c10a93
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 4552961767578563926}
+=======
+<<<<<<< HEAD
+  m_GameObject: {fileID: 4005023396876648929}
+=======
+  m_GameObject: {fileID: 2553386837081991973}
+>>>>>>> 070ec13a905b1b42df46557196ff12043d8d51b0
+>>>>>>> 3c6b7992dc2666f10743bd0f9bdb8be646c10a93
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 61.29499, y: 36.30955, z: -10.036732}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+--- !u!114 &4552961767578563927
+=======
+<<<<<<< HEAD
+--- !u!114 &4005023396876648928
+=======
+--- !u!114 &2553386837081991972
+>>>>>>> 070ec13a905b1b42df46557196ff12043d8d51b0
+>>>>>>> 3c6b7992dc2666f10743bd0f9bdb8be646c10a93
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 4552961767578563926}
+=======
+<<<<<<< HEAD
+  m_GameObject: {fileID: 4005023396876648929}
+=======
+  m_GameObject: {fileID: 2553386837081991973}
+>>>>>>> 070ec13a905b1b42df46557196ff12043d8d51b0
+>>>>>>> 3c6b7992dc2666f10743bd0f9bdb8be646c10a93
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbeed776a6e6b2741b02007ac58e7fbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MenuObject: {fileID: 0}

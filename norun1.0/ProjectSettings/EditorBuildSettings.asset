@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: b0b7d77faf136474fbafc627cc4bf81d
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 49c6ddf6cd4204b46b600738bf45fe97
+  - enabled: 0
+    path: Assets/Scenes/Option.unity
+    guid: 9632b5908b6ea7a47a332a4bd3c0aa3b
+  - enabled: 1
+    path: Assets/Scenes/stage/stage01.unity
+    guid: 410e24e2772ed924dbf23f31ec89648a
+  - enabled: 0
+    path: Assets/Scenes/stage/TestStage/stage1.unity
+    guid: e8651c6e5dff20b40b628d479bfef3d7
+  - enabled: 0
+    path: Assets/Scenes/stage/TestStage/stage1kako.unity
+    guid: e6d9f1570863ec44ab90e45417e62adb
+  - enabled: 0
+    path: Assets/Scenes/stage/TestStage/stage2.unity
+    guid: ab8352b6fcec8104184828ec2adaebc9
+  - enabled: 0
+    path: Assets/Scenes/stage/TestStage/stage2mirai.unity
+    guid: 28adbbb2e06e03a4abd3fb59c68add3b
+  - enabled: 0
+    path: Assets/Scenes/stage/TestStage/PVstage.unity
+    guid: d416711547fb39949bc653b4cc54d9b7
+  - enabled: 0
+    path: Assets/Scenes/stage/TestStage/PVstagemiraoi.unity
+    guid: 8352b961f2f653e4bac9c53e51fd964d
+  - enabled: 0
+    path: Assets/Scenes/stage/TestStage/PVstagekako.unity
+    guid: f31d14c695aa6534b92a2e916a622e4d
+  - enabled: 0
+    path: Assets/Scenes/stage/TestStage/TestTsuchi.unity
+    guid: 850decfd037f46c40b9a2af8146c01cc
+  - enabled: 0
+    path: Assets/Scenes/stage/TestStage/TestTsuchi 1.unity
+    guid: a4501bb4aac9d7846961a2eef6850249
+  m_configObjects: {}
