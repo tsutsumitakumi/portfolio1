@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3d1975b0ac38ff345af2fe1bb0768c17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - iceRockPrefab: {fileID: 339435489263899493, guid: d0eaa8e034f86ac40a04f9a9db2a7a34, type: 3}
+  - iceSpikePrefab: {fileID: 7655251907044414606, guid: 6e2e8398051476c4782b13dcf4a776ad, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
